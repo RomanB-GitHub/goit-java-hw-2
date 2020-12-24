@@ -1,5 +1,3 @@
-package main.java;
-
 class NameEncoderDecoder {
     public String encode(String name) {
         String one = name.strip();
